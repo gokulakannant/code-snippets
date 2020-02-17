@@ -1,7 +1,7 @@
 # Author Gokulakannan
 # Date: 22-05-2018
-# ~/go_back.sh 3
-# filename no-of-directory-to-back
+# . ~/go_back.sh 3
+# . filename no-of-directory-to-back
 
 COUNT=$1;
 
